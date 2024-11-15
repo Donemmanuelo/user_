@@ -1,0 +1,200 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
+  <diagram name="Page-1" id="nXWBwUCNANV4VVoEd0IQ">
+    <mxGraphModel dx="1964" dy="615" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ektpal-N9t8QWqwKVM1w-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="192" width="168" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="194" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-6" value="&lt;div&gt;Remote&lt;/div&gt;&lt;div&gt;Application&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="264" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-7" target="ektpal-N9t8QWqwKVM1w-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ektpal-N9t8QWqwKVM1w-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="322" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-11" value="Toolkits Gtk+, Qt, etc" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="139" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-13" target="ektpal-N9t8QWqwKVM1w-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-13" value="Toolkits, GTK+, &lt;span style=&quot;white-space: pre;&quot;&gt;Qt, etc&#x9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="377" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Display Manager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="198" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="396" as="targetPoint" />
+            <mxPoint x="224.5" y="384" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-22" value="Xib/ xcb" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377" y="360" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-24" value="Network " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="344" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-25" value="X Server&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry y="520" width="684" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-36" target="ektpal-N9t8QWqwKVM1w-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-36" value="Web Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-39" value="X Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="192" width="180" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-41" target="ektpal-N9t8QWqwKVM1w-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-41" value="Toolkits GTK+, Qt, etc" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="528" y="301" width="156" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-43" value="Xib/ xcb" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="528" y="337" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-49" value="Xorg Extensions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="408" y="538" width="228" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-58" value="Hardware, mouse, keyboard, etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="744" width="216" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-85" value="Xib/xcb" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="192" y="360" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-101" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="516" as="sourcePoint" />
+            <mxPoint x="590" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-116" value="X11 Protocol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ektpal-N9t8QWqwKVM1w-101">
+          <mxGeometry x="0.0833" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-102" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ektpal-N9t8QWqwKVM1w-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54" y="516" as="sourcePoint" />
+            <mxPoint x="74" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-103" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.374;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204" y="458" as="sourcePoint" />
+            <mxPoint x="254" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-113" value="&lt;div&gt;starts the x server and &lt;br&gt;&lt;/div&gt;&lt;div&gt;keep it returning&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ektpal-N9t8QWqwKVM1w-103">
+          <mxGeometry x="0.0082" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-104" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.633;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="446" as="sourcePoint" />
+            <mxPoint x="434" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-114" value="X11 Protocol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ektpal-N9t8QWqwKVM1w-104">
+          <mxGeometry x="0.0848" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-105" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="338" as="sourcePoint" />
+            <mxPoint x="50" y="288" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-107" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.532;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ektpal-N9t8QWqwKVM1w-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="612" as="sourcePoint" />
+            <mxPoint x="386" y="576" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-110" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461.0720000000001" y="768" as="sourcePoint" />
+            <mxPoint x="528" y="766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-111" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-24" target="ektpal-N9t8QWqwKVM1w-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="374" as="sourcePoint" />
+            <mxPoint x="144" y="288" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="144" y="384" />
+              <mxPoint x="144" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-112" value="&lt;div&gt;XDMPC for &lt;br&gt;&lt;/div&gt;&lt;div&gt;remote&lt;/div&gt;&lt;div&gt;authentification&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ektpal-N9t8QWqwKVM1w-111">
+          <mxGeometry x="-0.1684" y="-5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="7" y="194" width="112" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-118" value="&lt;div&gt;Remote &lt;br&gt;&lt;/div&gt;&lt;div&gt;Application&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="276" width="84" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-122" value="X Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="24" y="218" width="72" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ektpal-N9t8QWqwKVM1w-2" target="ektpal-N9t8QWqwKVM1w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-124" value="X Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="200" width="72" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-125" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Window Manager/&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Destop Environment&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="377" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-131" value="&lt;div&gt;X Client&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="396" y="200" width="72" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-132" value="X Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="552" y="204" width="72" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-56" value="&lt;div&gt;Display&lt;/div&gt;&lt;div&gt;Drivers&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="292" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-57" value="&lt;div&gt;Linus &lt;br&gt;&lt;/div&gt;&lt;div&gt;Drivers&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="372" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-134" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="180" y="624" width="288" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-135" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Display&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Drivers&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="204.5" y="720" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-136" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Input&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Drivers&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;fontColor=#000000;strokeColor=#BD7000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="720" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-139" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Linux Kernel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="252" y="642" width="144" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ektpal-N9t8QWqwKVM1w-140" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Web Browser&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="240" width="138" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
